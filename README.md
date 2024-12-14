@@ -23,6 +23,3 @@ bash <(curl -s https://raw.githubusercontent.com/Gustaf12/installer-pterodactlty
 _\* di atas adalah os yang sudah di test, selebihnya bisa di test sendiri._
 
 ## Contributors ✨
-
-Copyright (C) 2023 - 2024
-- BY [ WANNFYY ]
