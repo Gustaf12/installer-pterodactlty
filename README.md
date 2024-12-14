@@ -5,7 +5,7 @@
 Gunakan script di bawah untuk menginstall panel, node, hack back panel hanya dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/wndrzzka/installer-pterodactlty/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Gustaf12/installer-pterodactlty/main/install.sh)
 ```
 
 ## All Features Cek Sendiri
@@ -20,9 +20,9 @@ bash <(curl -s https://raw.githubusercontent.com/wndrzzka/installer-pterodactlty
 |                  | 11      | :white_check_mark: |
 |                  | 12      | :white_check_mark: |
 
-_\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
+_\* di atas adalah os yang sudah di test, selebihnya bisa di test sendiri._
 
 ## Contributors ✨
 
 Copyright (C) 2023 - 2024
-- BY [ WANNFYY ](https://github.com/wndrzzka)
+- BY [ WANNFYY ]
